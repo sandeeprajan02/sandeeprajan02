@@ -5,6 +5,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeeprajan02" alt="sandeeprajan02" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/sandeep-r-84a5211b2/" target="_blank" rel="noreferrer">
+
 <p align="left">
 </p>
 
